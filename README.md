@@ -13,7 +13,7 @@ Please feel free to check out his work, and his company: https://xela.dev/
 Bugs
 ========
 * Message Box text glitches a little sometimes
-* Issues with current directory folder closing and glitched wallpaper if started from Shortcut
+* Issues with current directory folder closing, and glitched wallpaper if started from Shortcut
 * Steals all your Robux
 
 Virus Total scan
@@ -25,7 +25,7 @@ or even run it on a VM
 
 Installation
 ============
-`pip install` the modules you may not have installed
+`pip install` the modules you may not have installed.
 start `GiveMeBadge2.py/exe`
 
 PROBLEMS
