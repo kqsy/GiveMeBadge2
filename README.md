@@ -16,8 +16,14 @@ Bugs
 * Issues with current directory folder closing and glitched wallpaper if started from Shortcut
 * Steals all your Robux
 
+Virus Total scan
+================
+https://www.virustotal.com/gui/url/183b423eff9012e0e7350bcb7327e42513c97f8759d030d90a12e11d92badf8e
+100% Safe
+
 Installation
 ============
+`pip install` the modules you may not have installed
 start `GiveMeBadge2.py/exe`
 
 PROBLEMS
