@@ -19,9 +19,9 @@ Bugs
 Virus Total scan
 ================
 https://www.virustotal.com/gui/file/5eeecb7e17204fd4bfcc1eca37dcbb4a36844632d57f4dd5b4149cb376556723
-\nFalse positive
-\nFeel free to look into it further if u don't believe it's safe
-\nor even run it on a VM
+False positive.
+Feel free to look into it further if u don't believe it's safe,
+or even run it on a VM
 
 Installation
 ============
