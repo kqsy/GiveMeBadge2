@@ -18,8 +18,10 @@ Bugs
 
 Virus Total scan
 ================
-https://www.virustotal.com/gui/url/183b423eff9012e0e7350bcb7327e42513c97f8759d030d90a12e11d92badf8e
-100% Safe
+https://www.virustotal.com/gui/file/5eeecb7e17204fd4bfcc1eca37dcbb4a36844632d57f4dd5b4149cb376556723
+False positive
+Feel free to look into it further if u don't believe it's safe
+or even run it on a VM
 
 Installation
 ============
