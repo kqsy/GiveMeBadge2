@@ -8,7 +8,7 @@ Disclaimer & Credits
 [GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) was created by [AlexFlipnote](https://github.com/AlexFlipnote).
 All credit for the GiveMeBadge application and script goes to him.
 This is simply just a joke executeable made merely for fun, and has no official correlation to the original product.
-Please feel free to check out his work, and his company: https://xela.dev/
+Please feel free to check out his work, and his company: https://alexflipnote.dev/ https://xela.dev/
 
 Bugs
 ========
