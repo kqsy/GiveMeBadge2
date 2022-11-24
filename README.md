@@ -18,12 +18,12 @@ Bugs
 
 Virus Total scan
 ================
-https://www.virustotal.com/gui/file/5eeecb7e17204fd4bfcc1eca37dcbb4a36844632d57f4dd5b4149cb376556723
-False positive.
-Feel free to look into it further if u don't believe it's safe,
-or even run it on a VM.
-I assure it is 100% safe,
-but if you feel otherwise that is fine.
+https://www.virustotal.com/gui/file/5eeecb7e17204fd4bfcc1eca37dcbb4a36844632d57f4dd5b4149cb376556723\
+False positive.\
+Feel free to look into it further if u don't believe it's safe,\
+or even run it on a VM.\
+I assure it is 100% safe,\
+but if you feel otherwise that is fine.\
 It is your choice to run the executeable/script or not
 
 Installation
