@@ -30,7 +30,7 @@ but if you feel otherwise that is fine.\
 Installation
 ============
 `pip install` the modules you may not have installed.\
-Start `GiveMeBadge2.py/exe`
+Start GiveMeBadge2.py/exe
 
 PROBLEMS
 ---------
