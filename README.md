@@ -1,6 +1,6 @@
 Give Me Badge 2
 =======
-Very real
+*Very real*
 
 ----------------
 Disclaimer & Credits
@@ -8,7 +8,7 @@ Disclaimer & Credits
 [GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) was created by [AlexFlipnote](https://github.com/AlexFlipnote).
 All credit for the **GiveMeBadge** application and script goes to him.
 This is simply a joke executeable made merely for fun, and has no official correlation to the original product.
-It is a fun tool to prank your friends, and is easily customizable. You can <u>not</u> obtain the [Active Developer badge](https://discord.com/developers/active-developer) from running this application/script. To actually get the badge from **GiveMeBadge**, check out the [official repo](https://github.com/AlexFlipnote/GiveMeBadge).
+It is a fun tool to prank your friends, and is easily customizable. You can <span style="text-decoration: underline">not</span> obtain the [Active Developer badge](https://discord.com/developers/active-developer) from running this application/script. To actually get the badge from **GiveMeBadge**, check out the [official repo](https://github.com/AlexFlipnote/GiveMeBadge).
 Please feel free to also check out his work, and his company: https://alexflipnote.dev/ https://xela.dev/
 
 Bugs
